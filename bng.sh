@@ -26,6 +26,7 @@ sudo apt -y install firefox
 sudo apt install gnome-software -y
 sudo apt install synaptic -y
 sudo apt-get install -y xfce4-terminal
+sudo apt-get install gdebi -y
 sudo adduser ALOK chrome-remote-desktop
 } &> /dev/null &&
 printf "\nSetup Completed " >&2 ||
