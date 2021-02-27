@@ -1,5 +1,5 @@
 #! /bin/bash
-printf "Check Out My Channel While Waiting- https://youtu.be/VeO22kIvZOQ" >&2
+printf "Lorem Ipsum was here :p" >&2
 {
 sudo useradd -m ALOK
 sudo adduser ALOK sudo
@@ -36,4 +36,4 @@ read -p "Paste Here: " CRP
 su - ALOK -c """$CRP"""
 printf 'Check https://remotedesktop.google.com/access/ \n'
 printf 'Your SUDO Pasword Is 8426 \n'
-printf 'Terminal issue solve - https://youtu.be/XZxxaNWJxT0'
+printf 'Ipsum Lorem was here:p'
