@@ -21,10 +21,7 @@ wget https://media.codeweavers.com/pub/crossover/cxlinux/demo/crossover_20.0.2-1
 sudo dpkg -i crossover_20.0.2-1.deb
 sudo apt install --assume-yes --fix-broken
 sudo apt install nautilus nano -y 
-sudo apt -y install obs-studio
 sudo apt -y install firefox
-sudo apt install gnome-software -y
-sudo apt install synaptic -y
 sudo apt-get install -y xfce4-terminal
 sudo apt-get install gdebi -y
 sudo adduser ALOK chrome-remote-desktop
